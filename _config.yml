@@ -1,0 +1,50 @@
+
+
+# site icon
+favicon: /favicon.png
+
+# author headimg
+headimg: /avator.jpg
+
+# search
+search: 
+    enable: true
+    placeholder: Enter Key...
+
+# sidebar
+sidebar: 
+  enable: true
+  menus:
+    -
+      name: 博客园
+      link: http://www.cnblogs.com/xiamuqing/
+      target: _blank
+
+# comments
+comments:
+  duoshuo_username:  xiamuqing
+  #disqus_username: xiamuqing
+
+# accounts support weibo/github/zhihu/twitter/douban 
+# display to former three
+social: 
+  -
+    name: weibo
+    link: http://weibo.com/u/3334799754
+  -
+    name: github
+    link: https://github.com/xiamuqing
+  -
+    name: zhihu
+    link: https://www.zhihu.com/people/xiamuqing
+#  -
+#    name: twitter
+#    link: 
+#  -
+#    name: douban
+#    link: 
+
+
+
+
+
